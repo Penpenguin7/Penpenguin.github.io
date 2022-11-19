@@ -1,0 +1,180 @@
+
+
+<html>
+<head>
+  <title>Vishesh Jain</title>
+<style type="text/css">
+    		body{
+    		    line-height: 1.5;
+    		    padding: 4em 1em;
+    		    width:800px;
+    		    margin-left:auto;
+    		    margin-right:auto;
+		    font-size:1.05em;
+    		}
+	
+		a {
+	  color: #4682B4;
+	  text-decoration: none;
+	}
+
+		a:hover { 
+		  color: #9BC4E2;
+		}
+
+</style>
+
+<link rel="stylesheet" type="text/css" />
+<meta name="keywords" content="Vishesh Jain, Vishesh, V. Jain, V Jain, Jain, Stanford, MIT, math, mathematics, statistics, Stein Fellow">  
+    <script type="text/javascript"
+         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML&delayStartupUntilConfig"></script>
+	 <script src="./local-mathjax-macros.js"></script>
+<script src="https://www.w3counter.com/tracker.js?id=135788"></script>
+</head>
+<body>
+<h1>Vishesh Jain</h1>
+<table>
+	<td> <img width=400px src="pic.jpg"></td>
+	<td style="padding-left:50px;max-width:500px"> 
+		<br/> <br/> Department of Mathematics, Statistics, and Computer Science, University of Illinois Chicago
+		<br/>  Office: SEO 622
+		<br/> Email: &nbsp; <tt> visheshj at uic dot edu </tt>
+		<!--<br/> <a href="CV.pdf">CV</a> (Last updated: October 2020)-->
+		<br/> <a href="https://it.uic.edu/accessibility/">Accessibility</a>
+	</td>
+</table>
+<br>
+I am an Assistant Professor in the department of <a href="https://mscs.uic.edu/">Mathematics, Statistics, and Computer Science </a> at the <a href="https://www.uic.edu">University of Illinois at Chicago</a>. I am broadly interested in probability, combinatorics, and theoretical computer science.   
+
+<br>
+	
+<h3>We are offering a few postdoctoral positions this year. If you are interested in working with me, please consider applying to <a href="https://www.mathjobs.org/jobs/list/20833">UIC-RAP</a> and/or <a href="https://www.mathjobs.org/jobs/UIC/IDEAL"> UIC-IDEAL</a> and mention my name in your application.</h3>
+
+<h2>Publications and Preprints </h2>
+
+
+<h3>Invertibility of random matrices</h3>
+	<ol>
+	<li><em> Random symmetric matrices: rank distribution and irreducibility of the characteristic polynomial</em>, joint with <a href="https://faculty.sites.uci.edu/asaff/">Asaf Ferber</a>, <a href="http://www.mit.edu/~asah/">Ashwin Sah</a>, and <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>. To appear in Mathematical Proceedings of the Cambridge Philosophical Society. <a href="https://arxiv.org/abs/2106.04049">[arXiv:2106.04049]</a>
+	<li><em> Rank deficiency of random matrices</em>, joint with <a href="http://www.mit.edu/~asah/">Ashwin Sah</a> and <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>. To appear in Electronic Communications in Probability. <a href="https://arxiv.org/abs/2103.02467">[arXiv:2103.02467]</a>
+	<li><em> On the smallest singular value of symmetric random matrices</em>, joint with <a href="http://www.mit.edu/~asah/">Ashwin Sah</a> and <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>. To appear in Combinatorics, Probability and Computing. <a href="https://arxiv.org/abs/2011.02344">[arXiv:2011.02344]</a>
+	<li><em> Singularity of discrete random matrices</em>, joint with <a href="http://www.mit.edu/~asah/">Ashwin Sah</a> and <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>. To appear in Geometric and Functional Analysis (GAFA). <a href="http://arxiv.org/abs/2010.06554">[arXiv:2010.06554]</a>
+	<li><em> Sharp invertibility of random Bernoulli matrices</em>, joint with <a href="http://www.mit.edu/~asah/">Ashwin Sah</a> and <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>. Merged with above for publication. <a href="http://arxiv.org/abs/2010.06553">[arXiv:2010.06553]</a>
+	<li><em> The smallest singular value of dense random regular digraphs</em>, joint with <a href="http://www.mit.edu/~asah/">Ashwin Sah</a> and <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>. To appear in International Mathematics Research Notices (IMRN). <a href="http://arxiv.org/abs/2008.04755">[arXiv:2008.04755]</a>
+	<li><em> Quantitative invertibility of random matrices: a combinatorial perspective</em>. Discrete Analysis, 2021:10. <a href="https://discreteanalysisjournal.com/article/27994-quantitative-invertibility-of-random-matrices-a-combinatorial-perspective">[Journal]</a><a href="https://arxiv.org/abs/1908.11255">[arXiv:1908.11255]</a></li>
+	<li><em> Approximate Spielman-Teng theorems for the least singular value of random combinatorial matrices</em>. Israel Journal of Mathematics, 242, pp. 461--500 (2021). <a href="https://link.springer.com/article/10.1007/s11856-021-2144-y">[Journal]</a><a href="https://arxiv.org/abs/1904.10592">[arXiv:1904.10592]</a></li> 
+	<li><em> On the counting problem in inverse Littlewood-Offord theory</em>, joint with <a href="https://faculty.sites.uci.edu/asaff/">Asaf Ferber</a>, <a href="https://sites.google.com/view/kluh/home">Kyle Luh</a>, and <a href="http://www.math.tau.ac.il/~samotij/">Wojciech Samotij</a>. Journal of the London Mathematical Society, vol. 103, issue 4, pp. 1333--1362 (2021). <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/jlms.12409">[Journal]</a><a href="https://arxiv.org/abs/1904.10425">[arXiv:1904.10425]</a></li> 
+	<li><em>Singularity of random symmetric matrices -- a combinatorial approach to improved bounds</em>, joint with <a href="https://faculty.sites.uci.edu/asaff/">Asaf Ferber</a>. Forum of Mathematics, Sigma, vol. 7, e22, 29 pages (2019). <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/224EF7C3908BE0BB390950514B1E99F8/S2050509419000215a.pdf/singularity_of_random_symmetric_matricesa_combinatorial_approach_to_improved_bounds.pdf">[Journal]</a><a href="https://arxiv.org/abs/1809.04718">[arXiv:1809.04718]</a></li> 
+	</ol>
+
+
+<h3> Counting, sampling, and Markov chains</h3>
+	<ol>
+	<li><em> Dimension reduction for maximum matchings and the Fastest Mixing Markov Chain</em>, joint with <a href="https://web.stanford.edu/~huypham/">Huy Tuan Pham</a> and <a href="https://tdvuong.people.stanford.edu/about">Thuy Duong Vuong</a>. Submitted. <a href="https://arxiv.org/abs/2203.03858">[arXiv:2203.03858]</a>
+	<li><em> Entropic Independence II: Optimal Sampling and Concentration via Restricted Modified Log-Sobolev Inequalities</em>, joint with <a href="https://nimaanari.com/">Nima Anari</a>, <a href="http://math.mit.edu/~fkoehler/"> Frederic Koehler</a>, <a href="https://web.stanford.edu/~huypham/">Huy Tuan Pham</a>, and <a href="https://tdvuong.people.stanford.edu/about">Thuy Duong Vuong</a>. To appear in the 54th ACM Symposium on the Theory of Computing (STOC 2022). <a href="https://arxiv.org/abs/2111.03247">[arXiv:2111.03247]</a>
+	<li><em> Approximate counting and sampling via local central limit theorems</em>, joint with <a href="http://willperkins.org/">Will Perkins</a>, <a href="http://www.mit.edu/~asah/">Ashwin Sah</a> and <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>. To appear in the 54th ACM Symposium on the Theory of Computing (STOC 2022). <a href="https://arxiv.org/abs/2108.01161">[arXiv:2108.01161]</a>
+	<li><em> Entropic Independence I: Modified Log-Sobolev Inequalities for Fractionally Log-Concave Distributions and High-Temperature Ising Models</em>, joint with <a href="https://nimaanari.com/">Nima Anari</a>, <a href="http://math.mit.edu/~fkoehler/"> Frederic Koehler</a>, <a href="https://web.stanford.edu/~huypham/">Huy Tuan Pham</a>, and <a href="https://tdvuong.people.stanford.edu/about">Thuy Duong Vuong</a>. To appear in the 54th ACM Symposium on the Theory of Computing (STOC 2022). <a href="https://arxiv.org/abs/2106.04105">[arXiv:2106.04105]</a>
+	<li><em> Spectral independence, coupling, and the spectral gap of the Glauber dynamics</em>, joint with <a href="https://web.stanford.edu/~huypham/">Huy Tuan Pham</a> and <a href="https://tdvuong.people.stanford.edu/about">Thuy Duong Vuong</a>. To appear in Information Processing Letters. <a href="https://arxiv.org/abs/2105.01201">[arXiv:2105.01201]</a>
+	<li><em> On the sampling Lov&aacutesz Local Lemma for atomic constraint satisfaction problems</em>, joint with <a href="https://web.stanford.edu/~huypham/">Huy Tuan Pham</a> and <a href="https://tdvuong.people.stanford.edu/about">Thuy Duong Vuong</a>. Submitted. <a href="https://arxiv.org/abs/2102.08342">[arXiv:2102.08342]</a>
+	<li><em> Towards the sampling Lov&aacutesz Local Lemma</em>, joint with <a href="https://web.stanford.edu/~huypham/">Huy Tuan Pham</a> and <a href="https://tdvuong.people.stanford.edu/about">Thuy Duong Vuong</a>. To appear in 62nd Annual IEEE Symposium on Foundations of Computer Science (FOCS 2021). <a href="https://arxiv.org/abs/2011.12196">[arXiv:2011.12196]</a>
+	<li><em> Perfectly sampling \(k \geq (8/3 + o(1))\Delta\)-colorings in graphs</em>, joint with <a href="http://www.mit.edu/~asah/">Ashwin Sah</a> and <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>. 53rd ACM Symposium on the Theory of Computing (STOC 2021). <a href="https://dl.acm.org/doi/10.1145/3406325.3451012">[Conference]</a><a href="http://arxiv.org/abs/2007.06360">[arXiv:2007.06360]</a>		
+	<li><em> Fast and memory-optimal dimension reduction using Kac's walk</em>, joint with <a href="http://www.people.fas.harvard.edu/~pillai/Welcome.html">Natesh Pillai</a>, <a href="http://www.mit.edu/~asah/">Ashwin Sah</a>, <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>, and <a href="http://aix1.uottawa.ca/~asmi28/">Aaron Smith</a>. To appear in Annals of Applied Probability. <a href="https://arxiv.org/abs/2003.10069">[arXiv:2003.10069]</a></li> 
+	</ol>
+
+<h3> Numerical analysis </h3>
+	<ol>
+	<li><em> Optimal and algorithmic norm regularization of random matrices</em>, joint with <a href="http://www.mit.edu/~asah/">Ashwin Sah</a> and <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>. To appear in Proceedings of the American Mathematical Society. <a href="http://arxiv.org/abs/2012.00175">[arXiv:2012.00175]</a>
+	<li><em> On the smoothed analysis of the smallest singular value with discrete noise</em>, joint with <a href="http://www.mit.edu/~asah/">Ashwin Sah</a> and <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>. To appear in Bulletin of the London Mathematical Society. <a href="http://arxiv.org/abs/2009.01699">[arXiv:2009.01699]</a>
+	<li><em> On the real Davies' conjecture</em>, joint with <a href="http://www.mit.edu/~asah/">Ashwin Sah</a> and <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>. To appear in Annals of Probability. <a href="http://arxiv.org/abs/2005.08908">[arXiv:2005.08908]</a>
+	</ol>	
+	
+<h3>Graph decompositions</h3>
+	<ol>
+	<li> <em>Towards the linear arboricity conjecture</em>, joint with <a href="https://faculty.sites.uci.edu/asaff/">Asaf Ferber</a> and <a href="http://stanford.edu/~jacobfox/">Jacob Fox</a>. Journal of Combinatorial Theory, Series B, Volume 142, May 2020, Pages 56--79. <a href="https://www.sciencedirect.com/science/article/pii/S0095895619300863">[Journal]</a><a href="https://arxiv.org/abs/1809.04716">[arXiv:1809.04716]</a></li> 
+	<li> <em>Number of 1-factorizations of regular high-degree graphs</em>, joint with <a href="https://faculty.sites.uci.edu/asaff/">Asaf Ferber</a> and <a href="https://people.math.ethz.ch/~sudakovb/">Benny Sudakov</a>. Combinatorica, 2020. <a href="https://link.springer.com/article/10.1007/s00493-019-3970-y">[Journal]</a><a href="https://arxiv.org/abs/1803.10360">[arXiv:1803.10360]</a>
+	<li> <em>On the k-planar local crossing number</em>, joint with John Asplund, <a href="https://math.mit.edu/~thaodo/">Thao Do</a>, and Arran Hamm. Discrete Mathematics, vol. 342, issue 4, pp. 927--933 (2019). <a href="https://www.sciencedirect.com/science/article/pii/S0012365X18304151">[Journal]</a><a href="https://arxiv.org/abs/1804.02117">[arXiv:1804.02117]</a>
+	<li> <em>1-factorizations of pseudorandom graphs</em>, joint with <a href="https://faculty.sites.uci.edu/asaff/">Asaf Ferber</a>. 59th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2018). Random Structures and Algorithms. <a href="http://ieee-focs.org/FOCS-2018-Papers/pdfs/59f698.pdf">[Conference]</a><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/rsa.20927">[Journal]</a><a href="https://arxiv.org/abs/1803.10361">[arXiv:1803.10361]</a></li>
+	<li><em> The probability of selecting k edge-disjoint Hamilton cycles in the complete graph</em>, joint with <a href="https://faculty.sites.uci.edu/asaff/">Asaf Ferber</a> and Kaarel Haenni. Not intended for publication. <a href="https://arxiv.org/abs/2001.01149">[arXiv:2001.01149]</a></li>
+	<li> <em>Uniformity-independent minimum degree conditions for perfect matchings in hypergraphs</em>, joint with <a href="http://math.mit.edu/~ferbera/">Asaf Ferber</a>. Not intended for publication. <a href="https://arxiv.org/abs/1903.12207">[arXiv:1903.12207]</a></li> 
+	</ol>
+	
+<h3>Mean-field approximation</h3>	
+	<ol>
+	<li><em>Mean-field approximation, convex hierarchies, and the optimality of correlation rounding: a unified perspective</em>, joint with <a href="http://math.mit.edu/~fkoehler/">Frederic Koehler</a> and <a href="https://math.mit.edu/~risteski/"> Andrej Risteski</a>. 51st ACM Symposium on the Theory of Computing (STOC 2019). <a href="http://delivery.acm.org/10.1145/3320000/3316299/stoc19main-p5-p.pdf?ip=18.87.0.196&id=3316299&acc=OPENTOC&key=7777116298C9657D%2EDE5F786C30E1A3B4%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&__acm__=1562880384_c3a962aa5c36f4e489a14bf8c82df272">[Conference]</a><a href="https://arxiv.org/abs/1808.07226">[arXiv:1808.07226]</a></li>
+	<li> <em>The Vertex Sample Complexity of Free Energy is Polynomial</em>, joint with <a href="http://math.mit.edu/~fkoehler/">Frederic Koehler</a> and <a href="http://www-math.mit.edu/~elmos/"> Elchanan Mossel</a>. 31st Annual Conference on Learning Theory (COLT 2018). <a href="http://proceedings.mlr.press/v75/jain18c/jain18c.pdf">[Conference]</a><a href="https://arxiv.org/abs/1802.06129">[arXiv:1802.06129]</a></li>
+	<li> <em>The Mean-Field Approximation: Information Inequalities, Algorithms, and Complexity</em>, joint with <a href="http://math.mit.edu/~fkoehler/">Frederic Koehler</a> and <a href="http://www-math.mit.edu/~elmos/"> Elchanan Mossel</a>. 31st Annual Conference on Learning Theory (COLT 2018). <a href="http://proceedings.mlr.press/v75/jain18b/jain18b.pdf">[Conference]</a><a href="https://arxiv.org/abs/1802.06126">[arXiv:1802.06126]</a></li>
+	</ol>
+	
+<h3> Anticoncentration </h3>
+	<ol>
+	<li><em>Anticoncentration versus the number of subset sums</em>, joint with <a href="http://www.mit.edu/~asah/">Ashwin Sah</a> and <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>. Advances in Combinatorics, 2021:6. <a href="https://www.advancesincombinatorics.com/article/24872-anticoncentration-versus-the-number-of-subset-sums">[Journal]</a><a href="https://arxiv.org/abs/2101.07726">[arXiv:2101.07726]</a></li>
+	<li><em> On the number of Hadamard matrices via anti-concentration</em>, joint with <a href="https://faculty.sites.uci.edu/asaff/">Asaf Ferber</a> and <a href="http://yufeizhao.com/">Yufei Zhao</a>. To appear in Combinatorics, Probability and Computing. <a href="https://arxiv.org/abs/1808.07222">[arXiv:1808.07222]</a></li>
+	</ol>
+	
+<h3> Universality of ESDs </h3>
+	<ol>
+	<li><em> Circular law for random block band matrices with genuinely sublinear bandwidth</em>, joint with <a href="https://www.iitbbs.ac.in/profile-print.php?furl=indrajit-jana">Indrajit Jana</a>, <a href="https://sites.google.com/view/kluh/home">Kyle Luh</a>, and <a href="http://math.colorado.edu/~seor3821/">Sean O'Rourke</a>. To appear in Journal of Mathematical Physics. <a href="https://arxiv.org/abs/2008.03850">[arXiv:2008.03850]</a></li>
+	<li><em> Universality and least singular values of random product matrices: a simplified approach</em>, joint with Rohit Chaudhuri and <a href="http://www.people.fas.harvard.edu/~pillai/Welcome.html">Natesh Pillai</a>. Bernoulli, vol. 27, no. 4, pages 2519-2531 (2021). <a href="https://projecteuclid.org/journals/bernoulli/volume-27/issue-4/Universality-and-least-singular-values-of-random-matrix-products/10.3150/20-BEJ1320.short">[Journal]</a><a href="https://arxiv.org/abs/2007.03595">[arXiv:2007.03595]</a></li>  
+	<li><em> A note on the universality of ESDs of inhomogeneous random matrices</em>, joint with <a href="https://sandeepsilwal.com">Sandeep Silwal</a>. Latin American Journal of Probability and Mathematical Statistics (ALEA), vol. 18, 1047–1059 (2021). <a href="https://alea.impa.br/articles/v18/18-39.pdf">[Journal]</a><a href="https://arxiv.org/abs/2006.05418">[arXiv:2006.05418]</a></li>
+	<li><em> The strong circular law: a combinatorial view</em>. Random Matrices: Theory and Applications, vol. 10, No. 03, 2150031 (2021). <a href="https://www.worldscientific.com/doi/abs/10.1142/S2010326321500313">[Journal]</a><a href="https://arxiv.org/abs/1904.11108v3">[arXiv:1904.11108]</a></li> 
+	</ol>
+
+
+<h3>Miscellaneous</h3>
+	<ol>
+	<li><em> Spencer's theorem in nearly input-sparsity time</em>, joint with <a href="http://www.mit.edu/~asah/">Ashwin Sah</a> and <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>. To be submitted. <a href="https://arxiv.org/abs/2206.04549">[arXiv:2206.04549]</a>
+	<li><em> Optimal minimization of the covariance loss</em>, joint with <a href="http://www.mit.edu/~asah/">Ashwin Sah</a> and <a href="http://www.mit.edu/~msawhney/index.html">Mehtaab Sawhney</a>. Submitted. <a href="https://arxiv.org/abs/2205.01773">[arXiv:2205.01773]</a>
+	<li><em> Accuracy-Memory Tradeoffs and Phase Transitions in Belief Propagation</em>, joint with <a href="http://math.mit.edu/~fkoehler/">Frederic Koehler</a>, <a href="http://web.mit.edu/jingbo/www">Jingbo Liu</a>, and <a href="http://www-math.mit.edu/~elmos/"> Elchanan Mossel</a>. 32nd Annual Conference on Learning Theory (COLT 2019). <a href="http://proceedings.mlr.press/v99/jain19b/jain19b.pdf">[Conference]</a><a href="https://arxiv.org/abs/1905.10031">[arXiv:1905.10031]</a></li> 
+	<li> <em>On discontinuity of planar optimal transport maps</em>, joint with <a href="https://web.math.princeton.edu/~ochodosh/"> Otis Chodosh</a>, <a href="https://math.berkeley.edu/~lindsey/"> Michael Lindsey</a>, Lyuboslav Panchev, and <a href="https://www.math.umd.edu/~yanir/">Yanir Rubinstein</a>. Journal of Topology and Analysis, vol. 7, no. 2, pp. 239--260 (2015). <a href="https://www.worldscientific.com/doi/abs/10.1142/S1793525315500089">[Journal]</a><a href="https://arxiv.org/abs/1312.2929">[arXiv:1312.2929]</a></li>	
+	<li><em>A Counterexample to the "Majority is Least Stable" Conjecture</em>. Not intended for publication. <a href="https://arxiv.org/abs/1703.07657">[arXiv:1703.07657]</a></li>
+
+	</ol>
+
+
+<h2>Expository</h2>
+<ol>	
+	<li> An <a href="FeigeInequality.pdf"> expanded version</a> of a MathOverflow comment by Nazarov, giving a simple proof of an inequality due to Feige.</li>
+	<li> Unedited and informal <a href="ReadingGroup_HypergraphContainers_Notes.pdf">notes</a> from a three-hour reading group talk on the Balogh-Morris-Samotij proof of the <a href="https://arxiv.org/abs/1204.6530"> hypergraph containers theorem </a>.</li>
+	<li>Unedited and informal <a href="ReadingGroup_CombinatorialDesigns_Notes.pdf">notes</a> from a two-hour reading group talk on Peter Keevash's <a href="https://arxiv.org/abs/1504.02909"> Counting Designs</a>.</li>
+</ol>
+
+<h2>Upcoming talks and conferences</h2>
+<ul>
+<li> AMS Spring Central Sectional Meeting, April 15-16, 2023.
+<li> I am organizing a <a href="CanaDAM2023.html">minisymposium on "Random matrix theory and connections"</a> at CanaDAM 2023, June 5-8, 2023.
+</ul>
+	
+
+<h2>Teaching, Mentoring, and TAing</h2>
+<ul>	
+	<li> In Winter 2022, I taught <a href="https://canvas.stanford.edu/courses/147564">STATS 217</a> (Introduction to Stochastic Processes I).</li>
+	<li> In Fall 2021, I taught <a href="https://canvas.stanford.edu/courses/135544">STATS 60</a> (Introduction to Statistical Methods).</li>
+	<li> In Spring 2021, I taught <a href="https://canvas.stanford.edu/courses/135544">STATS 60</a> (Introduction to Statistical Methods).</li>
+	<li> In Winter 2021, I taught <a href="STATS217_Winter2021.html">STATS 217</a> (Introduction to Stochastic Processes I).</li>
+	<li> In Spring 2020, I was a grader for <a href="https://math.mit.edu/~nsun/s20-18676.html">18.676</a> (Stochastic Calculus) and <a href="http://www-math.mit.edu/~goemans/18455-2020SP.html">18.455</a> (Advanced Combinatorial Optimization).</li>
+	<li> In Summer 2019, I was a mentor for <a href="http://math.mit.edu/research/undergraduate/urop-plus/index.php">UROP+</a>.</li>
+	<li> In Spring 2019, I was a grader for <a href="http://yufeizhao.com/pm/">18.218</a> (Probabilistic Method in Combinatorics).</li>
+	<li> In Fall 2018, I was a recitation instructor for <a href="https://stellar.mit.edu/S/course/18/fa18/18.600/">18.600</a> (Probability & Random Variables). Recitation handouts are available <a href="18_600_Fall2018.html">here</a>.</li>
+<!-- 	<ul>
+		<li> <a href="18_600_Rec1_Problems.pdf">Recitation 1 problems</a>. <a href="18_600_Rec1_Solutions.pdf">Partial solutions</a>.</li>
+		<li> <a href="18_600_Rec2_Problems.pdf">Recitation 2 problems</a>. <a href="18_600_Rec2_Solutions.pdf">Partial solutions</a>.</li>		 
+		<li> <a href="18_600_Rec3_Problems.pdf">Recitation 3 problems</a>. <a href="18_600_Rec3_Solutions.pdf">Partial solutions</a>.</li>		 
+		<li> <a href="18_600_Rec4_Problems.pdf">Recitation 4 problems</a>. <a href="18_600_Rec4_Solutions.pdf">Partial solutions</a>.</li>		 
+		<li> <a href="18_600_Rec5_Problems.pdf">Recitation 5 problems</a>. <a href="18_600_Rec5_Solutions.pdf">Partial solutions</a>.</li>
+		<li> <a href="18_600_Rec6_Problems.pdf">Recitation 6 problems</a>. <a href="18_600_Rec6_Solutions.pdf">Partial solutions</a>.</li>		
+		<li> <a href="18_600_Rec7_Problems.pdf">Recitation 7 problems</a>. <a href="18_600_Rec7_Solutions.pdf">Partial solutions</a>.</li>		
+		<li> <a href="18_600_Rec8_Problems.pdf">Recitation 8 problems</a>. <a href="18_600_Rec8_Solutions.pdf">Partial solutions</a>.</li>		
+		<li> <a href="18_600_Rec9_Problems.pdf">Recitation 9 problems</a>. <a href="18_600_Rec9_Solutions.pdf">Partial solutions</a>.</li>		
+		<li> <a href="18_600_Rec10_Problems.pdf">Recitation 10 problems</a>. <a href="18_600_Rec10_Solutions.pdf">Partial solutions</a>.</li>		
+		<li> <a href="18_600_Rec11_Problems.pdf">Recitation 11 problems</a>. <a href="18_600_Rec11_Solutions.pdf">Partial solutions</a>.</li>		
+		<li> <a href="18_600_Rec12_Problems.pdf">Recitation 12 problems</a>. <a href="18_600_Rec12_Solutions.pdf">Partial solutions</a>.</li>		
+	</ul> -->
+	<li> In Spring 2018, I was a recitation instructor for <a href="https://math.mit.edu/~jorloff/18.04/index.html">18.04</a> (Complex Analysis with Applications). Recitation handouts are available <a href="https://ocw.mit.edu/courses/mathematics/18-04-complex-variables-with-applications-spring-2018/recitations/">here</a>.</li>
+	<li> In Fall 2017, I graded for <a href="https://math.mit.edu/~rbm/18-155-F17/18.155.html">18.155</a> (Differential Analysis I).</li>
+	<li> In Spring 2017, I graded for <a href="https://learning-modules.mit.edu/class/index.html?uuid=/course/18/sp17/18.117/#info">18.117</a> (Hodge Theory).</li>
+	<li> In IAP 2017, I was a mentor for the MIT math department's <a href="http://math.mit.edu/research/undergraduate/drp/index.php">Directed Reading Program</a>.</li>
+	<li> In Fall 2016, I graded for <a href="https://math.mit.edu/~walpuski/18.965/">18.965</a> (Geometry of Manifolds I).</li>
+	<li> In Summer 2016, I was a mentor for the <a href="https://www.cee.org/research-science-institute"> Research Science Institute (RSI) </a>.</li>
+</ul>
+</body>
+</html>
